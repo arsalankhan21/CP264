@@ -1,0 +1,27 @@
+Stats     value
+count     20.0  
+mean      77.9  
+stddev    13.5  
+median    79.1  
+
+name      score %     grade
+Myrie     76.7  77    B+    
+Hatch     66.5  67    C+    
+Costa     45.1  45    F     
+Dabu      74.4  74    B     
+Sun       67.7  68    C+    
+Chabot    80.4  80    A-    
+Giblett   59.1  59    D+    
+Suglio    85.7  86    A     
+Smith     60.1  60    C-    
+Bodnar    93.6  94    A+    
+Allison   67.7  68    C+    
+Koreck    77.4  77    B+    
+Parr      92.5  93    A+    
+Lamont    98.1  98    A+    
+Peters    82.3  82    A-    
+Wang      98.1  98    A+    
+Eccles    77.8  78    B+    
+Pereira   80.3  80    A-    
+He        85.7  86    A     
+Ali       88.0  88    A     
